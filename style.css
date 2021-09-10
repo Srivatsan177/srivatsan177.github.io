@@ -1,0 +1,9 @@
+ul{
+    list-style: url("./images/arrow.svg");
+}
+
+img {
+    height: 5vh;
+    width: auto;
+    margin: 1vh 3vh;
+}
